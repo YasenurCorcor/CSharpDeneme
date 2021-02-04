@@ -1,0 +1,13 @@
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\bin\Debug\netcoreapp3.1\CSharpDeneme.exe
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\bin\Debug\netcoreapp3.1\CSharpDeneme.deps.json
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\bin\Debug\netcoreapp3.1\CSharpDeneme.runtimeconfig.json
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\bin\Debug\netcoreapp3.1\CSharpDeneme.runtimeconfig.dev.json
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\bin\Debug\netcoreapp3.1\CSharpDeneme.dll
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\bin\Debug\netcoreapp3.1\CSharpDeneme.pdb
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\obj\Debug\netcoreapp3.1\CSharpDeneme.csprojAssemblyReference.cache
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\obj\Debug\netcoreapp3.1\CSharpDeneme.AssemblyInfoInputs.cache
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\obj\Debug\netcoreapp3.1\CSharpDeneme.AssemblyInfo.cs
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\obj\Debug\netcoreapp3.1\CSharpDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\obj\Debug\netcoreapp3.1\CSharpDeneme.dll
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\obj\Debug\netcoreapp3.1\CSharpDeneme.pdb
+C:\Users\Emır\source\repos\CSharpDeneme\CSharpDeneme\obj\Debug\netcoreapp3.1\CSharpDeneme.genruntimeconfig.cache
