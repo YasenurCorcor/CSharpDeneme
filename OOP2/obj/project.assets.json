@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP2\\OOP2.csproj",
-      "projectName": "OOP2",
-      "projectPath": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP2\\OOP2.csproj",
+      "projectUniqueName": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP2\\Bankacılık.csproj",
+      "projectName": "Bankacılık",
+      "projectPath": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP2\\Bankacılık.csproj",
       "packagesPath": "C:\\Users\\Emır\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP2\\obj\\",
       "projectStyle": "PackageReference",

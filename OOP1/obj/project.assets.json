@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP1\\OOP1.csproj",
-      "projectName": "OOP1",
-      "projectPath": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP1\\OOP1.csproj",
+      "projectUniqueName": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP1\\ETicaretSitesi.csproj",
+      "projectName": "ETicaretSitesi",
+      "projectPath": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP1\\ETicaretSitesi.csproj",
       "packagesPath": "C:\\Users\\Emır\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Emır\\source\\repos\\CSharpDeneme\\OOP1\\obj\\",
       "projectStyle": "PackageReference",

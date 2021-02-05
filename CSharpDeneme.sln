@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "CSharpDeneme\DegerVeReferansTipler.csproj", "{F03508A1-E08A-4A29-AF4E-90184A447D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "CSharpDeneme\DegerVeReferansTipler.csproj", "{F03508A1-E08A-4A29-AF4E-90184A447D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{8CB83A00-2C13-4F03-A6EB-CF807035B1BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{8CB83A00-2C13-4F03-A6EB-CF807035B1BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{7DA1C683-CB4B-4EB3-9F1E-9D6C6972CADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{7DA1C683-CB4B-4EB3-9F1E-9D6C6972CADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematic", "Mathematic\Mathematic.csproj", "{065D7F76-7DA5-4701-A55B-746F60A0B4C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathematic", "Mathematic\Mathematic.csproj", "{065D7F76-7DA5-4701-A55B-746F60A0B4C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{998B9B5E-4B9D-458E-8A05-639DC70F1186}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{998B9B5E-4B9D-458E-8A05-639DC70F1186}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{2949F442-A242-4A74-B889-C5E25F22D81D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretSitesi", "OOP1\ETicaretSitesi.csproj", "{2949F442-A242-4A74-B889-C5E25F22D81D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{52C3A6B0-9456-4639-AA96-CFA59FD7110B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bankacılık", "OOP2\Bankacılık.csproj", "{52C3A6B0-9456-4639-AA96-CFA59FD7110B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{C817BA8E-F1F3-4D77-A62A-94FF08E1817A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankacılıkVeKredi", "OOP3\BankacılıkVeKredi.csproj", "{C817BA8E-F1F3-4D77-A62A-94FF08E1817A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
